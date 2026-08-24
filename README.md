@@ -4,7 +4,10 @@ Adds an **Old** button to Reddit’s current interface. Select it to open the eq
 
 ## Install
 
-1. Install a userscript manager, such as [Violentmonkey](https://violentmonkey.github.io/), Tampermonkey, or Userscripts.
+1. Install a userscript manager:
+   - [Userscripts](https://apps.apple.com/app/userscripts/id1463298887) for Safari
+   - [Violentmonkey](https://violentmonkey.github.io/) for Firefox or Chromium browsers
+   - [Tampermonkey](https://www.tampermonkey.net/) for Safari, Firefox, or Chromium browsers
 2. Open [reddit-button-new-to-old.user.js](https://raw.githubusercontent.com/hectorlizard/reddit-button-new-to-old/main/reddit-button-new-to-old.user.js).
 3. Confirm the installation in your userscript manager.
 
